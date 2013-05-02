@@ -1,0 +1,73 @@
+body {
+    
+    background-image: url('bckr4.jpg');
+    background-repeat: repeat;
+}
+
+.intro{
+    text-align: center;
+    font-size: 670%;
+    font-family: Castellar;
+}
+
+#word {
+    border-radius: 10%;
+    border-color: white;
+    position: relative;
+    background-color: #f9f7f7;
+    
+}
+
+#word:focus {
+    outline-width: 0;
+}
+
+#word:hover{
+    box-shadow: 2px 2px 1px gray;
+}
+
+#rhyme {
+    background-color: #f9f7f7;
+    font-family: Castellar;
+    border-radius: 100%;
+    position: relative;
+    left: 60%;
+}
+
+#letters{
+    position: relative;
+    top: -19px;
+    left: 25%;
+    
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    margin: 0 20px;
+}
+
+.output{
+    margin: 15px;
+    padding: 15px
+}
+
+td{
+    margin: 30px;
+    padding: 10px;
+    font-family: Castellar;
+    color: #f9f7f7;
+    font-size: medium;
+}
+
+td a:hover{
+    color: #ff6a00;
+    
+}
+
+td a{
+    text-decoration: none;
+    color: #f9f7f7;
+}
+

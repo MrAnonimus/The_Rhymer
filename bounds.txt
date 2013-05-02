@@ -1,0 +1,185 @@
+a -> 0
+b -> 24631
+c -> 24754
+d -> 25179
+e -> 26082
+f -> 55454
+g -> 55690
+h -> 56384
+i -> 56955
+j -> 85187
+k -> 85270
+l -> 85816
+m -> 87049
+n -> 87716
+o -> 90421
+p -> 122708
+q -> 123018
+r -> 123033
+s -> 125270
+t -> 128103
+u -> 129742
+v -> 130157
+w -> 130418
+x -> 130542
+y -> 130765
+z -> 131850
+à -> 132108
+á -> 134085
+è -> 134092
+é -> 134224
+ì -> 134440
+í -> 134691
+ò -> 134698
+ó -> 136257
+ô -> 136265
+ù -> 136266
+ú -> 136349
+
+switch (z) {
+                case 'a':
+                    bot = 0;
+                    up = 24630;
+                    break;
+                case 'b':
+                    bot = 24631;
+                    up = 24753;
+                    break;
+                case 'c':
+                    bot = 24754;
+                    up = 25178;
+                    break;
+                case 'd':
+                    bot = 25179;
+                    up = 26081;
+                    break;
+                case 'e':
+                    bot = 26082;
+                    up = 55453;
+                    break;
+                case 'f':
+                    bot = 55454;
+                    up = 55689;
+                    break;
+                case 'g':
+                    bot = 55690;
+                    up = 56383;
+                    break;
+                case 'h':
+                    bot = 56384;
+                    up = 56954;
+                    break;
+                case 'i':
+                    bot = 56955;
+                    up = 85186;
+                    break;
+                case 'j':
+                    bot = 85187;
+                    up = 85269;
+                    break;
+                case 'k':
+                    bot = 85270;
+                    up = 85815;
+                    break;
+                case 'l':
+                    bot = 85816;
+                    up = 87048;
+                    break;
+                case 'm':
+                    bot = 87049;
+                    up = 87715;
+                    break;
+                case 'n':
+                    bot = 87716;
+                    up = 90420;
+                    break;
+                case 'o':
+                    bot = 90421;
+                    up = 122707;
+                    break;
+                case 'p':
+                    bot = 122708;
+                    up = 123017;
+                    break;
+                case 'q':
+                    bot = 123018;
+                    up = 123032;
+                    break;
+                case 'r':
+                    bot = 123033;
+                    up = 125269;
+                    break;
+                case 's':
+                    bot = 125270;
+                    up = 128102;
+                    break;
+                case 't':
+                    bot = 128103;
+                    up = 129741;
+                    break;
+                case 'u':
+                    bot = 129742;
+                    up = 130156;
+                    break;
+                case 'v':
+                    bot = 130157;
+                    up = 24631;
+                    break;
+                case 'w':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'x':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'y':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'z':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'à':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'a':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'è':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'a':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'ì':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'a':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'ò':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'a':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'ù':
+                    bot = 0;
+                    up = 24631;
+                    break;
+                case 'a':
+                    bot = 0;
+                    up = 24631;
+                    break;
+
+            }
