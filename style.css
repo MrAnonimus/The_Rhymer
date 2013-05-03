@@ -70,4 +70,7 @@ td a{
     text-decoration: none;
     color: #f9f7f7;
 }
-
+footer {
+    position: absolute;
+    top: 91%;
+}
