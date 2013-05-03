@@ -1,9 +1,6 @@
 var a;
 var b;
 var lr = 0;
-function updateTextInput(val) {
-      document.getElementById('textInput').html=val; 
-    }
 
     $(document).ready(function () {
 
@@ -14,7 +11,7 @@ function updateTextInput(val) {
         var output = new Array();
         var letters = 2;
         $(function () {
-            $.get('/ffwords_2.txt', function (data) {
+            $.get('/words.txt', function (data) {
                 nwords = data.split('\n');
             });
 
